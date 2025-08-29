@@ -401,9 +401,7 @@ Timestamp:2025-08-30 01:25:46.4212066 +0530 IST m=+2.537624501}                 
    • Per-session goroutines: Feed, Engine, Strategy, Broker (4 each)
    • Channel communication: orderbook updates, trade signals, executions
    • Total concurrent goroutines: ~17 running simultaneously!
-```
 
-```
 cd "c:\Users\varun\Desktop\Code\Vs_code\trading_project\tools"; go run validate_orders.go
 PS C:\Users\varun\Desktop\Code\Vs_code\trading_project> cd "c:\Users\varun\Desktop\Co
 de\Vs_code\trading_project\tools"; go run validate_orders.go                         === ORDER BOOK MATHEMATICAL VALIDATION ===
@@ -429,7 +427,7 @@ de\Vs_code\trading_project\tools"; go run validate_orders.go                    
    ✅ Insufficient liquidity detected correctly
 
 === ALL MATHEMATICAL VALIDATIONS PASSED ===
-```
+
 cd "c:\Users\varun\Desktop\Code\Vs_code\trading_project"; go run tools/validate_orders.go
 top\Code\Vs_code\trading_project"; go run tools/validate_orders.go                   === ORDER BOOK MATHEMATICAL VALIDATION ===
 
@@ -454,9 +452,7 @@ top\Code\Vs_code\trading_project"; go run tools/validate_orders.go              
    ✅ Insufficient liquidity detected correctly
 
 === ALL MATHEMATICAL VALIDATIONS PASSED ===
-```
 
-```
 go run tools/comprehensive_validation.go
 === COMPREHENSIVE ORDER MATHEMATICS VALIDATION ===
 
@@ -485,12 +481,11 @@ go run tools/comprehensive_validation.go
 ✅ Cumulative depth calculations are accurate
 ✅ P&L calculations are precise
 ✅ Edge cases are handled properly
-```
-```
-go run main.go -session=btc
-PS C:\Users\varun\Desktop\Code\Vs_code\trading_project> go run main.go -session=btc
-🔥 GO TRADING ENGINE - Goroutines & Channels Demo
+
+
+go run main.go -session=btc 
 ================================================
+
 🎯 Running specific session: btc
 2025/08/30 01:28:01 Engine started
 2025/08/30 01:28:01 Strategy started
