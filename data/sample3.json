@@ -1,0 +1,92 @@
+[
+  {
+    "symbol": "ADAUSD",
+    "timestamp": "2025-08-30T10:00:00Z",
+    "bids": [
+      {"price": 0.4500, "quantity": 1000.0},
+      {"price": 0.4495, "quantity": 1500.0},
+      {"price": 0.4490, "quantity": 2000.0},
+      {"price": 0.4485, "quantity": 1200.0},
+      {"price": 0.4480, "quantity": 1800.0}
+    ],
+    "asks": [
+      {"price": 0.4510, "quantity": 900.0},
+      {"price": 0.4515, "quantity": 1300.0},
+      {"price": 0.4520, "quantity": 1100.0},
+      {"price": 0.4525, "quantity": 1700.0},
+      {"price": 0.4530, "quantity": 1400.0}
+    ]
+  },
+  {
+    "symbol": "ADAUSD",
+    "timestamp": "2025-08-30T10:00:01Z",
+    "bids": [
+      {"price": 0.4502, "quantity": 1100.0},
+      {"price": 0.4497, "quantity": 1400.0},
+      {"price": 0.4492, "quantity": 1900.0},
+      {"price": 0.4487, "quantity": 1300.0},
+      {"price": 0.4482, "quantity": 1600.0}
+    ],
+    "asks": [
+      {"price": 0.4512, "quantity": 950.0},
+      {"price": 0.4517, "quantity": 1250.0},
+      {"price": 0.4522, "quantity": 1050.0},
+      {"price": 0.4527, "quantity": 1650.0},
+      {"price": 0.4532, "quantity": 1350.0}
+    ]
+  },
+  {
+    "symbol": "ADAUSD",
+    "timestamp": "2025-08-30T10:00:02Z",
+    "bids": [
+      {"price": 0.4498, "quantity": 1050.0},
+      {"price": 0.4493, "quantity": 1550.0},
+      {"price": 0.4488, "quantity": 1750.0},
+      {"price": 0.4483, "quantity": 1250.0},
+      {"price": 0.4478, "quantity": 1850.0}
+    ],
+    "asks": [
+      {"price": 0.4508, "quantity": 1000.0},
+      {"price": 0.4513, "quantity": 1200.0},
+      {"price": 0.4518, "quantity": 1150.0},
+      {"price": 0.4523, "quantity": 1600.0},
+      {"price": 0.4528, "quantity": 1450.0}
+    ]
+  },
+  {
+    "symbol": "ADAUSD",
+    "timestamp": "2025-08-30T10:00:03Z",
+    "bids": [
+      {"price": 0.4504, "quantity": 1200.0},
+      {"price": 0.4499, "quantity": 1350.0},
+      {"price": 0.4494, "quantity": 1650.0},
+      {"price": 0.4489, "quantity": 1150.0},
+      {"price": 0.4484, "quantity": 1750.0}
+    ],
+    "asks": [
+      {"price": 0.4514, "quantity": 850.0},
+      {"price": 0.4519, "quantity": 1350.0},
+      {"price": 0.4524, "quantity": 1250.0},
+      {"price": 0.4529, "quantity": 1550.0},
+      {"price": 0.4534, "quantity": 1300.0}
+    ]
+  },
+  {
+    "symbol": "ADAUSD",
+    "timestamp": "2025-08-30T10:00:04Z",
+    "bids": [
+      {"price": 0.4506, "quantity": 1300.0},
+      {"price": 0.4501, "quantity": 1450.0},
+      {"price": 0.4496, "quantity": 1550.0},
+      {"price": 0.4491, "quantity": 1100.0},
+      {"price": 0.4486, "quantity": 1700.0}
+    ],
+    "asks": [
+      {"price": 0.4516, "quantity": 800.0},
+      {"price": 0.4521, "quantity": 1400.0},
+      {"price": 0.4526, "quantity": 1200.0},
+      {"price": 0.4531, "quantity": 1500.0},
+      {"price": 0.4536, "quantity": 1250.0}
+    ]
+  }
+]

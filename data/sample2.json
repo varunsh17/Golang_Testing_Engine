@@ -1,0 +1,92 @@
+[
+  {
+    "symbol": "ETHUSD",
+    "timestamp": "2025-08-30T10:00:00Z",
+    "bids": [
+      {"price": 3000.00, "quantity": 5.0},
+      {"price": 2995.00, "quantity": 8.2},
+      {"price": 2990.00, "quantity": 6.5},
+      {"price": 2985.00, "quantity": 4.8},
+      {"price": 2980.00, "quantity": 7.1}
+    ],
+    "asks": [
+      {"price": 3005.00, "quantity": 4.5},
+      {"price": 3010.00, "quantity": 6.8},
+      {"price": 3015.00, "quantity": 5.2},
+      {"price": 3020.00, "quantity": 7.3},
+      {"price": 3025.00, "quantity": 5.9}
+    ]
+  },
+  {
+    "symbol": "ETHUSD",
+    "timestamp": "2025-08-30T10:00:01Z",
+    "bids": [
+      {"price": 3002.00, "quantity": 5.2},
+      {"price": 2997.00, "quantity": 7.8},
+      {"price": 2992.00, "quantity": 6.1},
+      {"price": 2987.00, "quantity": 5.3},
+      {"price": 2982.00, "quantity": 6.9}
+    ],
+    "asks": [
+      {"price": 3007.00, "quantity": 4.8},
+      {"price": 3012.00, "quantity": 6.4},
+      {"price": 3017.00, "quantity": 5.6},
+      {"price": 3022.00, "quantity": 7.0},
+      {"price": 3027.00, "quantity": 5.5}
+    ]
+  },
+  {
+    "symbol": "ETHUSD",
+    "timestamp": "2025-08-30T10:00:02Z",
+    "bids": [
+      {"price": 2998.00, "quantity": 4.9},
+      {"price": 2993.00, "quantity": 8.5},
+      {"price": 2988.00, "quantity": 5.8},
+      {"price": 2983.00, "quantity": 6.2},
+      {"price": 2978.00, "quantity": 7.4}
+    ],
+    "asks": [
+      {"price": 3003.00, "quantity": 5.1},
+      {"price": 3008.00, "quantity": 6.1},
+      {"price": 3013.00, "quantity": 5.9},
+      {"price": 3018.00, "quantity": 6.7},
+      {"price": 3023.00, "quantity": 6.3}
+    ]
+  },
+  {
+    "symbol": "ETHUSD",
+    "timestamp": "2025-08-30T10:00:03Z",
+    "bids": [
+      {"price": 3001.00, "quantity": 5.5},
+      {"price": 2996.00, "quantity": 7.2},
+      {"price": 2991.00, "quantity": 6.8},
+      {"price": 2986.00, "quantity": 4.6},
+      {"price": 2981.00, "quantity": 7.7}
+    ],
+    "asks": [
+      {"price": 3006.00, "quantity": 4.2},
+      {"price": 3011.00, "quantity": 7.1},
+      {"price": 3016.00, "quantity": 5.4},
+      {"price": 3021.00, "quantity": 6.8},
+      {"price": 3026.00, "quantity": 5.7}
+    ]
+  },
+  {
+    "symbol": "ETHUSD",
+    "timestamp": "2025-08-30T10:00:04Z",
+    "bids": [
+      {"price": 3003.50, "quantity": 5.8},
+      {"price": 2998.50, "quantity": 6.9},
+      {"price": 2993.50, "quantity": 7.3},
+      {"price": 2988.50, "quantity": 5.1},
+      {"price": 2983.50, "quantity": 6.6}
+    ],
+    "asks": [
+      {"price": 3008.50, "quantity": 4.7},
+      {"price": 3013.50, "quantity": 6.5},
+      {"price": 3018.50, "quantity": 5.8},
+      {"price": 3023.50, "quantity": 7.2},
+      {"price": 3028.50, "quantity": 6.0}
+    ]
+  }
+]
